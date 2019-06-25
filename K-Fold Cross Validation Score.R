@@ -65,6 +65,7 @@ cv <- lapply(folds, function (x) {
 # Mean accuracies.
 accuracy <- mean(as.numeric(cv)) # 0.9131591
 
+# Accuracy of 0.91... pretty good...
 
 
 
